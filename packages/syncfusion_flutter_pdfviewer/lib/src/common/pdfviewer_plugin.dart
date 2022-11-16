@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:syncfusion_pdfviewer_platform_interface/pdfviewer_platform_interface.dart';
 import 'package:uuid/uuid.dart';
+import 'dart:typed_data';
 
 import 'pdfviewer_helper.dart';
 
